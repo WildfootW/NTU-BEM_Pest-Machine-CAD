@@ -1,5 +1,6 @@
-# Turntable Mechanism Log
+# Turntable Mechanism
 
+## Log
 ### 2021 Nov
 
 Replace 53409U with 51409 due to 53409U is two times expensive than 51409 (and hard to bought).
