@@ -1,5 +1,5 @@
-# Disposal Mechanism Log
-
+# Disposal Mechanism
+## Log
 ### Initial
 
 [How to Make a Flexible Subassembly with Top-Down Design Method in SOLIDWORKS?](https://engineering.stackexchange.com/questions/44920/how-to-make-a-flexible-subassembly-with-top-down-design-method-in-solidworks)
